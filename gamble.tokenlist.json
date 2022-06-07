@@ -1,5 +1,5 @@
 {
-  "name": "SmartGamble Tokenlist",
+  "name": "Gamble Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [
   ],
@@ -8,7 +8,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2022-05-06T03:11:00+00:00",
+  "timestamp": "2022-06-07T03:16:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
