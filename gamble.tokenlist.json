@@ -33,6 +33,14 @@
       "name": "Aave Token",
       "symbol": "AAVE.e",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
     }
   ]
 }
