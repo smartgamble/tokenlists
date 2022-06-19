@@ -41,6 +41,30 @@
       "name": "USD Coin",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x96412902aa9aFf61E13f085e70D3152C6ef2a817",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+      "decimals": 18,
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
     }
   ]
 }
